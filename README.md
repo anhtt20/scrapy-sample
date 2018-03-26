@@ -2,13 +2,12 @@
 
 1. Install scrapy
 
-If you want to direct install library.
+- direct install
     ```
     pip install scrapy
     ```
 
-If you are using conda.
-
+- use conda.
     ```
     conda install -c conda-forge scrapy
     ```  
