@@ -1,6 +1,7 @@
 ### How to run:
 
 1. Install scrapy
+
   ◆If you want to direct install library.
     ```
     pip install scrapy
